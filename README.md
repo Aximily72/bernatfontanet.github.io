@@ -1,4 +1,4 @@
 # Bernat Fontanet — Portfolio
 
-Personal portfolio website at [GitHub Pages](https://bernatfontanet.github.io).
+Personal portfolio website at [bernatfontanet.github.io](https://bernatfontanet.github.io).
 
